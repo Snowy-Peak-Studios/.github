@@ -8,7 +8,7 @@ We're a small, independent studio that makes fun projects and handy tools to mak
 
 | | |
 | --- | --- |
-| **[Commonplace.md](https://github.com/Snowy-Peak-Studios/commonplace-md)** | Your project's wiki, notes and task board, in your own GitHub repo, for free. Write in plain Markdown, in the browser or on your phone, and every save is kept. No more paying for Notion, Jira or Obsidian Sync. **[Try it →](https://snowy-peak-studios.github.io/commonplace-md/)** |
+| **[Commonplace.md](https://github.com/Snowy-Peak-Studios/commonplace-md)** | Your project's wiki, notes and task board, in your own GitHub repo, for free. Write in plain Markdown, in the browser or on your phone, and every save is kept. No more paying for Notion, Jira or Azure DevOps. **[Try it →](https://snowy-peak-studios.github.io/commonplace-md/)** |
 
 More is on the way. ⛰️
 
