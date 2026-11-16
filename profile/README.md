@@ -1,3 +1,5 @@
+![Pixel-art cabin glowing on a snowy mountain peak at night](./banner.png)
+
 # 👋 Hi, we're Snowy Peak Studios
 
 We're a small, independent studio that makes fun projects and handy tools to make everyday life a little better. We make them for ourselves first, and for you to enjoy and use, for free.
