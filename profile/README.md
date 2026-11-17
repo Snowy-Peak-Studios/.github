@@ -4,6 +4,8 @@ We're a small, independent studio that makes fun projects and handy tools to mak
 
 **✨ Make your life fun and easy. ✨**
 
+**[☕ Support on Ko-fi](https://ko-fi.com/jansnieg)**
+
 ## 🧰 What we've made
 
 | | |
